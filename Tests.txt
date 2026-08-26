@@ -1,0 +1,8 @@
+0    0    0      INFINITE    NAN     NAN
+0    0    1      ZERO        NAN     NAN 
+0    1    0      ONE         0       NAN
+0    1    1      ONE 		 -1      NAN
+1    0    0      ONE         0       NAN
+1    0    1      ZERO        NAN     NAN
+1    0    -25    TWO         -5      5  
+1    3    0      TWO         -3      0  
